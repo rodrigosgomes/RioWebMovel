@@ -1,0 +1,22 @@
+<resources>
+    <!-- Fonts Padrao Petrobas -->
+    <string name="fontSansBold">PetrobrasSans_Bd.ttf</string>
+    <string name="fontSansItalic">PetrobrasSans_It.ttf</string>
+    <string name="fontSansLight">PetrobrasSans_Lt.ttf</string>
+    <string name="fontSansRegular">PetrobrasSans_Rg.ttf</string>
+
+    <!-- Layout Base -->
+    <string name="app_name">RIOWeb Móvel</string>
+
+    <!--
+    TODO: Menu
+    TODO: Tela Inicial
+    TODO: Busca
+    -->
+
+
+    <!-- Categorias da Tela Principal -->
+    <string name="main.category.name.pending">Pendentes</string>
+    <string name="main.category.name.ongoing">Em Andamento</string>
+    <string name="main.category.name.closed">Encerradas</string>
+</resources>

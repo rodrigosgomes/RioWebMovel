@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary"> #A8B400</color>
+    <color name="colorPrimaryDark">#008542</color>
+    <color name="colorAccent"> #E17000</color>
+-->
+    <color name="branco">#FFFFFF</color>
+    <color name="verdePetrobras">#008542</color>
+    <color name="amareloPetrobras">#FDC82F</color>
+    <color name="azulPetrobras">#006298</color>
+    <color name="verdeAguaPetrobras">#00B2A9</color>
+    <color name="verdeClaroPetrobras">#A8B400</color>
+    <color name="amareloClaroPetrobras">#FEDF00</color>
+    <color name="laranjaPetrobras">#E17000</color>
+    <color name="cinzaEscuroPetrobras">#675C53</color>
+    <color name="cinzaClaroPetrobras">#BCBDBC</color>
+    <color name="azulEscuroPetrobras">#004165</color>
+    <color name="azulClaroPetrobras">#7D9AAA</color>
+
+</resources>

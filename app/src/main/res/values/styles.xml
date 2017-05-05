@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/verdePetrobras</item>
+        <item name="colorPrimaryDark">@color/azulEscuroPetrobras</item>
+    </style>
+
+    <!--Style theme for tab Layout-->
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/laranjaPetrobras</item>
+        <item name="tabBackground">@color/verdePetrobras</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/branco</item>
+    </style>
+
+    <!--Theme for tab text-->
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/smallFont</item>
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:fontFamily">@string/fontSansRegular</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+</resources>
