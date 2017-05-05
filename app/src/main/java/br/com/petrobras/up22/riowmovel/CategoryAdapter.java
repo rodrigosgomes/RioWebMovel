@@ -3,10 +3,11 @@ package br.com.petrobras.up22.riowmovel;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import static br.com.petrobras.up22.riowmovel.MainActivity.resources;
+
 public class CategoryAdapter extends FragmentPagerAdapter {
 
-
-    private String tabTitles[] = new String[] {"Pendentes", "Em Andamento", "Encerradas"};
+    String tabTitles[] = new String[] {resources.getString(R.string.main_category_name_pending), resources.getString(R.string.main_category_name_ongoing), resources.getString(R.string.main_category_name_closed)};
 
     public CategoryAdapter(FragmentManager fm) {
         super(fm);
